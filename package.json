@@ -18,7 +18,7 @@
     "test": "jest --ci --runInBand"
   },
   "dependencies": {
-    "core-js": "^2.5.3",
+    "core-js": "^2.6.12",
     "global": "^4.3.2",
     "history": "^4.7.2",
     "mobx": "^3.4.2",
