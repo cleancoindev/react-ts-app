@@ -4774,17 +4774,25 @@ mkdirp@0.5.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0:
   dependencies:
     minimist "0.0.8"
 
-mobx-little-router-react@^1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/mobx-little-router-react/-/mobx-little-router-react-1.7.5.tgz#0ade287abb7bfd4f3a7628c58234790be0d5cdab"
+mobx-little-router-react@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/mobx-little-router-react/-/mobx-little-router-react-1.8.2.tgz#55a9cf3ca19d85175a0f0caa36f1aa18a44972a8"
+  integrity sha512-Wb5v5zuW+2LO2IZXWkhSRvCu6frS1JKW6WbgSj31pZzA8fILLLOFQNgBW9qyfkDFBUPVevlOcVz8belcRXCVCQ==
   dependencies:
     classnames "^2.2.5"
     hoist-non-react-statics "^2.3.1"
-    mobx-little-router "^1.7.4"
+    mobx-little-router "^1.8.2"
 
 mobx-little-router@^1.7.4:
   version "1.7.4"
   resolved "https://registry.yarnpkg.com/mobx-little-router/-/mobx-little-router-1.7.4.tgz#969ef7a0a5f1cca8d1c609c30fbc7e8867a7e28b"
+  dependencies:
+    url-pattern "^1.0.3"
+
+mobx-little-router@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/mobx-little-router/-/mobx-little-router-1.8.2.tgz#dac72c9a958f9433cbb1d9fb308f83c3f3b05f19"
+  integrity sha512-Rv7U6M6AyboHJJEKyiYq8A9V3iMzY7o8u9YP3BIG72Y9F9tUpeIvDnF888Mwe3KuVtkrPsXHYIllQCp+k7Dwzg==
   dependencies:
     url-pattern "^1.0.3"
 
