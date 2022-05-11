@@ -4788,6 +4788,13 @@ mobx-little-router@^1.7.4:
   dependencies:
     url-pattern "^1.0.3"
 
+mobx-little-router@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/mobx-little-router/-/mobx-little-router-1.8.2.tgz#dac72c9a958f9433cbb1d9fb308f83c3f3b05f19"
+  integrity sha512-Rv7U6M6AyboHJJEKyiYq8A9V3iMzY7o8u9YP3BIG72Y9F9tUpeIvDnF888Mwe3KuVtkrPsXHYIllQCp+k7Dwzg==
+  dependencies:
+    url-pattern "^1.0.3"
+
 mobx-react@^4.3.5:
   version "4.4.3"
   resolved "https://registry.yarnpkg.com/mobx-react/-/mobx-react-4.4.3.tgz#baa9ec41165ee35ae7b9df19bca10190f36f117e"
